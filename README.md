@@ -1,6 +1,6 @@
 # Harry Potter Characters Network
 
-![](https://i.pinimg.com/originals/47/bf/49/47bf4981329d737ba0ce4489106d611b.png)
+![](https://www.criarfacebook.com/capas/covers-images/download/harry-potter-minimalista_facebook_cover.jpg)
 
 Harry Potter Characters Network é um projeto com o objetivo de proporcionar melhor visualização do relacionamento entre os diferentes personagens da série de filmes da saga. Todos os dados foram obtidos apartir de **web sraping** do site criado pelos fãs. 
 
