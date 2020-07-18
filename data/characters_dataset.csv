@@ -1,0 +1,712 @@
+character,relationship,relative
+Harry Potter,paternal ancestor,Ignotus Peverell[46]
+Harry Potter,paternal ancestor,Linfred of Stinchcombe[47]
+Harry Potter,father,James Potter[48]
+Harry Potter,mother,Lily Potter[48]
+Harry Potter,paternal grandfather,Fleamont Potter[47]
+Harry Potter,paternal grandmother,Euphemia Potter[47]
+Harry Potter,maternal grandfather,Mr Evans[48]
+Harry Potter,maternal grandmother,Mrs Evans[48]
+Harry Potter,aunt,Petunia Dursley[48]
+Harry Potter,uncle,Vernon Dursley[48]
+Harry Potter,cousin,Dudley Dursley[48]
+Harry Potter,cousin-in-law,Mrs Dursley[49]
+Harry Potter,first cousins once removed,Dudley's children[49]
+Harry Potter,wife,Ginevra Potter[46]
+Harry Potter,son,James Sirius Potter[46]
+Harry Potter,son,Albus Severus Potter[46]
+Harry Potter,daughter,Lily Luna Potter[46]
+Harry Potter,father-in-law,Arthur Weasley[46]
+Harry Potter,mother-in-law,Molly Weasley[46]
+Harry Potter,brother-in-law,Ron Weasley[46]
+Harry Potter,sister-in-law,Hermione Granger[46]
+Harry Potter,niece,Rose Granger-Weasley[46][50]
+Harry Potter,nephew,Hugo Granger-Weasley[46][50]
+Harry Potter,brother-in-law,Fred Weasley[46]
+Harry Potter,brother-in-law,George Weasley[46]
+Harry Potter,sister-in-law,Angelina Weasley[46]
+Harry Potter,nephew,Fred Weasley II[51]
+Harry Potter,niece,Roxanne Weasley[51]
+Harry Potter,brother-in-law,Bill Weasley[46]
+Harry Potter,sister-in-law,Fleur Weasley[46]
+Harry Potter,niece,Victoire Weasley[52]
+Harry Potter,niece,Dominique Weasley[51]
+Harry Potter,nephew,Louis Weasley[51]
+Harry Potter,brother-in-law,Charlie Weasley[46]
+Harry Potter,brother-in-law,Percy Weasley[46]
+Harry Potter,sister-in-law,Audrey Weasley[46]
+Harry Potter,niece,Molly Weasley[51]
+Harry Potter,niece,Lucy Weasley[51]
+Harry Potter,distant cousin,Tom Riddle[46]
+Harry Potter,[],Potter family[48]
+Harry Potter,paternal ancestors,Fleamont family[47]
+Dudley Dursley,father,Vernon Dursley
+Dudley Dursley,mother,Petunia Dursley
+Dudley Dursley,wife,Mrs Dursley
+Dudley Dursley,[],Children 
+Dudley Dursley,paternal grandmother,Mrs Dursley
+Dudley Dursley,paternal aunt,Marjorie Dursley
+Dudley Dursley,maternal grandfather,Mr Evans
+Dudley Dursley,maternal grandmother,Mrs Evans
+Dudley Dursley,maternal aunt,Lily Potter
+Dudley Dursley,maternal uncle by marriage,James Potter
+Dudley Dursley,maternal first cousin,Harry Potter
+Dudley Dursley,cousin-in-law,Ginny Potter
+Dudley Dursley,first cousin once removed,James Sirius Potter
+Dudley Dursley,first cousin once removed,Albus Severus Potter
+Dudley Dursley,first cousin once removed,Lily Luna Potter
+Vernon Dursley,mother,Mrs Dursley
+Vernon Dursley,sister,Marjorie Dursley
+Vernon Dursley,wife,Petunia Dursley
+Vernon Dursley,son,Dudley Dursley
+Vernon Dursley,daughter-in-law,Mrs Dursley
+Vernon Dursley,[],Grandchildren
+Vernon Dursley,father-in-law,Mr Evans
+Vernon Dursley,mother-in-law,Mrs Evans
+Vernon Dursley,sister-in-law,Lily Potter
+Vernon Dursley,co-brother-in-law,James Potter
+Vernon Dursley,nephew-in-law,Harry Potter
+Vernon Dursley,co-niece-in-law,Ginevra Potter
+Arthur Weasley,father,Septimus Weasley
+Arthur Weasley,mother,Cedrella Weasley
+Arthur Weasley,[],2 brothers
+Arthur Weasley,brother or brother-in-law,Bilius
+Arthur Weasley,[],Brother or brother-in-law
+Arthur Weasley,maternal grandfather,Arcturus Black II
+Arthur Weasley,maternal grandmother,Lysandra Black
+Arthur Weasley,maternal uncle,Caspar Crouch
+Arthur Weasley,maternal aunt,Charis Crouch
+Arthur Weasley,wife,Molly Weasley
+Arthur Weasley,father-in-law,Mr Prewett
+Arthur Weasley,mother-in-law,Mrs Prewett
+Arthur Weasley,son,Bill Weasley
+Arthur Weasley,son,Charlie Weasley
+Arthur Weasley,son,Percy Weasley
+Arthur Weasley,son,Fred Weasley
+Arthur Weasley,son,George Weasley
+Arthur Weasley,son,Ron Weasley
+Arthur Weasley,daughter,Ginevra Potter
+Arthur Weasley,possible cousin,Bartemius Crouch Snr
+Arthur Weasley,maternal uncle,Harfang Longbottom
+Arthur Weasley,maternal aunt,Callidora Longbottom
+Arthur Weasley,[],Male cousin
+Arthur Weasley,[],2 female cousins
+Arthur Weasley,[],Male cousin
+Arthur Weasley,[],Female cousin
+Arthur Weasley,aunt or aunt-in-law,Tessie
+Arthur Weasley,aunt-in-law,Muriel
+Arthur Weasley,[],Nephew
+Arthur Weasley,brother-in-law,Gideon Prewett
+Arthur Weasley,brother-in-law,Fabian Prewett
+Arthur Weasley,daughter-in-law,Fleur Weasley
+Arthur Weasley,daughter-in-law,Audrey Weasley
+Arthur Weasley,daughter-in-law,Angelina Weasley
+Arthur Weasley,daughter-in-law,Hermione Granger
+Arthur Weasley,son-in-law,Harry Potter
+Arthur Weasley,granddaughter,Victoire Weasley
+Arthur Weasley,granddaughter,Dominique Weasley
+Arthur Weasley,grandson,Louis Weasley
+Arthur Weasley,granddaughter,Molly Weasley II
+Arthur Weasley,granddaughter,Lucy Weasley
+Arthur Weasley,grandson,Fred Weasley II
+Arthur Weasley,granddaughter,Roxanne Weasley
+Arthur Weasley,granddaughter,Rose Granger-Weasley[6]
+Arthur Weasley,grandson,Hugo Granger-Weasley[6]
+Arthur Weasley,grandson,James Potter II
+Arthur Weasley,grandson,Albus Potter
+Arthur Weasley,granddaughter,Lily Potter
+Arthur Weasley,[],House of Black
+Molly Weasley,[],Possible great-grandmother[7]
+Molly Weasley,[],Father
+Molly Weasley,[],Mother
+Molly Weasley,brother or brother-in-law,Bilius
+Molly Weasley,brother,Gideon Prewett
+Molly Weasley,brother,Fabian Prewett
+Molly Weasley,great-aunt[7],Muriel
+Molly Weasley,uncle,Ignatius Prewett[8]
+Molly Weasley,aunt,Lucretia Prewett
+Molly Weasley,possible aunt,Tessie
+Molly Weasley,[],Second cousin
+Molly Weasley,[],Nephew
+Molly Weasley,husband,Arthur Weasley
+Molly Weasley,son,Bill Weasley
+Molly Weasley,son,Charlie Weasley
+Molly Weasley,son,Percy Weasley
+Molly Weasley,son,Fred Weasley
+Molly Weasley,son,George Weasley
+Molly Weasley,son,Ron Weasley
+Molly Weasley,daughter,Ginny Potter
+Molly Weasley,granddaughter,Victoire Weasley
+Molly Weasley,granddaughter,Dominique Weasley
+Molly Weasley,grandson,Louis Weasley
+Molly Weasley,granddaughter,Molly Weasley II
+Molly Weasley,granddaughter,Lucy Weasley
+Molly Weasley,grandson,Fred Weasley II
+Molly Weasley,granddaughter,Roxanne Weasley
+Molly Weasley,granddaughter,Rose Granger-Weasley
+Molly Weasley,grandson,Hugo Granger-Weasley
+Molly Weasley,grandson,James Potter II
+Molly Weasley,grandson,Albus Potter
+Molly Weasley,granddaughter,Lily Potter II
+Molly Weasley,father-in-law,Septimus Weasley
+Molly Weasley,mother-in-law,Cedrella Weasley
+Molly Weasley,[],2 brothers-in-law
+Molly Weasley,son-in-law,Harry Potter
+Molly Weasley,daughter-in-law,Hermione Granger
+Molly Weasley,daughter-in-law,Fleur Weasley
+Molly Weasley,daughter-in-law,Angelina Weasley
+Molly Weasley,daughter-in-law,Audrey Weasley
+William Weasley,paternal grandfather,Septimus Weasley
+William Weasley,paternal grandmother,Cedrella Weasley
+William Weasley,great-aunt,Muriel
+William Weasley,maternal grandfather,Mr Prewett
+William Weasley,maternal grandmother,Mrs Prewett
+William Weasley,father,Arthur Weasley
+William Weasley,mother,Molly Weasley
+William Weasley,younger brother,Charlie Weasley
+William Weasley,younger brother,Percy Weasley
+William Weasley,younger brother,Fred Weasley
+William Weasley,younger brother,George Weasley
+William Weasley,younger brother,Ron Weasley
+William Weasley,younger sister,Ginevra Potter
+William Weasley,wife,Fleur Weasley
+William Weasley,daughter,Victoire Weasley
+William Weasley,daughter,Dominique Weasley
+William Weasley,son,Louis Weasley
+William Weasley,[],Uncle
+William Weasley,[],Cousin
+William Weasley,uncle,Bilius
+William Weasley,maternal uncle,Gideon Prewett
+William Weasley,maternal uncle,Fabian Prewett
+William Weasley,[],Paternal uncles
+William Weasley,brother-in-law,Harry Potter
+William Weasley,sister-in-law,Hermione Granger
+William Weasley,sister-in-law,Angelina Weasley
+William Weasley,sister-in-law,Audrey Weasley
+William Weasley,niece,Molly Weasley II
+William Weasley,niece,Lucy Weasley
+William Weasley,nephew,Fred Weasley II
+William Weasley,niece,Roxanne Weasley
+William Weasley,nephew,James Sirius Potter
+William Weasley,nephew,Albus Severus Potter
+William Weasley,niece,Lily Luna Potter
+William Weasley,niece,Rose Granger-Weasley
+William Weasley,nephew,Hugo Granger-Weasley
+William Weasley,sister-in-law,Gabrielle Delacour
+William Weasley,mother-in-law,Apolline Delacour
+William Weasley,father-in-law,Monsieur Delacour
+William Weasley,[],Weasley family
+William Weasley,[],House of Black
+Fleur Delacour,father,Monsieur Delacour[6]
+Fleur Delacour,mother,Apolline Delacour[6]
+Fleur Delacour,sister,Gabrielle Delacour[7]
+Fleur Delacour,[],Maternal grandmother[8]
+Fleur Delacour,possible relatives,Mother's cousins[9]
+Fleur Delacour,husband,Bill Weasley[9]
+Fleur Delacour,daughter,Victoire Weasley[6]
+Fleur Delacour,daughter,Dominique Weasley[10]
+Fleur Delacour,son,Louis Weasley[10]
+Fleur Delacour,father-in-law,Arthur Weasley
+Fleur Delacour,mother-in-law,Molly Weasley
+Fleur Delacour,brother-in-law,Charlie Weasley
+Fleur Delacour,brother-in-law,Percy Weasley
+Fleur Delacour,sister-in-law,Audrey Weasley
+Fleur Delacour,niece,Molly Weasley II
+Fleur Delacour,niece,Lucy Weasley
+Fleur Delacour,brother-in-law,Fred Weasley
+Fleur Delacour,brother-in-law,George Weasley
+Fleur Delacour,sister-in-law,Angelina Weasley
+Fleur Delacour,nephew,Fred Weasley II
+Fleur Delacour,niece,Roxanne Weasley
+Fleur Delacour,brother-in-law,Ron Weasley
+Fleur Delacour,sister-in-law,Hermione Granger[11]
+Fleur Delacour,niece,Rose Granger-Weasley[11]
+Fleur Delacour,nephew,Hugo Granger-Weasley[11]
+Fleur Delacour,sister-in-law,Ginevra Potter
+Fleur Delacour,brother-in-law,Harry Potter
+Fleur Delacour,nephew,James Potter II
+Fleur Delacour,nephew,Albus Potter
+Fleur Delacour,niece,Lily Potter II
+Fleur Delacour,in-laws,Weasley family[9]
+Victoire Weasley,paternal great-grandfather,Septimus Weasley[4]
+Victoire Weasley,paternal great-grandmother,Cedrella Weasley[4]
+Victoire Weasley,paternal grandfather,Arthur Weasley
+Victoire Weasley,paternal grandmother,Molly Weasley
+Victoire Weasley,maternal grandfather,Monsieur Delacour
+Victoire Weasley,maternal grandmother,Apolline Delacour
+Victoire Weasley,father,Bill Weasley
+Victoire Weasley,mother,Fleur Weasley
+Victoire Weasley,brother,Louis Weasley
+Victoire Weasley,sister,Dominique Weasley
+Victoire Weasley,maternal aunt,Gabrielle Delacour
+Victoire Weasley,aunt,Ginevra Potter
+Victoire Weasley,uncle,Harry Potter
+Victoire Weasley,cousin,James Sirius Potter
+Victoire Weasley,cousin,Albus Severus Potter
+Victoire Weasley,cousin,Lily Luna Potter
+Victoire Weasley,uncle,Ron Weasley
+Victoire Weasley,aunt,Hermione Granger
+Victoire Weasley,cousin,Rose Granger-Weasley
+Victoire Weasley,cousin,Hugo Granger-Weasley
+Victoire Weasley,uncle,Fred Weasley
+Victoire Weasley,uncle,George Weasley
+Victoire Weasley,aunt,Angelina Weasley
+Victoire Weasley,cousin,Fred Weasley II
+Victoire Weasley,cousin,Roxanne Weasley
+Victoire Weasley,uncle,Percy Weasley
+Victoire Weasley,aunt,Audrey Weasley
+Victoire Weasley,cousin,Molly Weasley II
+Victoire Weasley,cousin,Lucy Weasley
+Victoire Weasley,uncle,Charles Weasley
+Victoire Weasley,[],Delacour family
+Victoire Weasley,[],Weasley family
+Victoire Weasley,[],Prewett family
+Victoire Weasley,[],House of Black
+Dominique Weasley,paternal great-grandfather,Septimus Weasley[1]
+Dominique Weasley,paternal great-grandmother,Cedrella Weasley[1]
+Dominique Weasley,paternal grandfather,Arthur Weasley
+Dominique Weasley,paternal grandmother,Molly Weasley
+Dominique Weasley,maternal grandfather,Monsieur Delacour
+Dominique Weasley,maternal grandmother,Apolline Delacour
+Dominique Weasley,father,Bill Weasley
+Dominique Weasley,mother,Fleur Weasley
+Dominique Weasley,sister,Victoire Weasley
+Dominique Weasley,brother,Louis Weasley
+Dominique Weasley,maternal aunt,Gabrielle Delacour
+Dominique Weasley,aunt,Ginevra Potter
+Dominique Weasley,uncle,Harry Potter
+Dominique Weasley,cousin,James Sirius Potter
+Dominique Weasley,cousin,Albus Severus Potter
+Dominique Weasley,cousin,Lily Luna Potter
+Dominique Weasley,uncle,Ronald Weasley
+Dominique Weasley,aunt,Hermione Granger
+Dominique Weasley,cousin,Rose Granger-Weasley
+Dominique Weasley,cousin,Hugo Granger-Weasley
+Dominique Weasley,uncle,Fred Weasley
+Dominique Weasley,uncle,George Weasley
+Dominique Weasley,aunt,Angelina Weasley
+Dominique Weasley,cousin,Fred Weasley II
+Dominique Weasley,cousin,Roxanne Weasley
+Dominique Weasley,uncle,Percy Weasley
+Dominique Weasley,aunt,Audrey Weasley
+Dominique Weasley,cousin,Molly Weasley II
+Dominique Weasley,cousin,Lucy Weasley
+Dominique Weasley,uncle,Charles Weasley
+Dominique Weasley,[],Delacour family
+Dominique Weasley,[],Weasley family
+Dominique Weasley,[],Prewett family
+Dominique Weasley,[],House of Black
+Louis Weasley,paternal great-grandfather,Septimus Weasley[1]
+Louis Weasley,paternal great-grandmother,Cedrella Weasley[1]
+Louis Weasley,paternal grandfather,Arthur Weasley
+Louis Weasley,paternal grandmother,Molly Weasley
+Louis Weasley,maternal grandfather,Monsieur Delacour
+Louis Weasley,maternal grandmother,Apolline Delacour
+Louis Weasley,father,Bill Weasley
+Louis Weasley,mother,Fleur Weasley
+Louis Weasley,sister,Victoire Weasley
+Louis Weasley,sister,Dominique Weasley
+Louis Weasley,maternal aunt,Gabrielle Delacour
+Louis Weasley,aunt,Ginevra Potter
+Louis Weasley,uncle,Harry Potter
+Louis Weasley,cousin,James Sirius Potter
+Louis Weasley,cousin,Albus Severus Potter
+Louis Weasley,cousin,Lily Luna Potter
+Louis Weasley,uncle,Ronald Weasley
+Louis Weasley,aunt,Hermione Granger
+Louis Weasley,cousin,Rose Granger-Weasley
+Louis Weasley,cousin,Hugo Granger-Weasley
+Louis Weasley,uncle,Fred Weasley
+Louis Weasley,uncle,George Weasley
+Louis Weasley,aunt,Angelina Weasley
+Louis Weasley,cousin,Fred Weasley II
+Louis Weasley,cousin,Roxanne Weasley
+Louis Weasley,uncle,Percy Weasley
+Louis Weasley,aunt,Audrey Weasley
+Louis Weasley,cousin,Molly Weasley II
+Louis Weasley,cousin,Lucy Weasley
+Louis Weasley,uncle,Charles Weasley
+Louis Weasley,[],Delacour family
+Louis Weasley,[],Weasley family
+Louis Weasley,[],Prewett family
+Louis Weasley,[],House of Black
+Charles Weasley,paternal grandfather,Septimus Weasley
+Charles Weasley,paternal grandmother,Cedrella Weasley
+Charles Weasley,maternal grandfather,Mr Prewett
+Charles Weasley,maternal grandmother,Mrs Prewett
+Charles Weasley,[],Uncle
+Charles Weasley,[],Cousin
+Charles Weasley,uncle,Bilius
+Charles Weasley,maternal uncle,Gideon Prewett
+Charles Weasley,maternal uncle,Fabian Prewett
+Charles Weasley,[],Paternal uncles
+Charles Weasley,father,Arthur Weasley
+Charles Weasley,mother,Molly Weasley
+Charles Weasley,older brother,Bill Weasley
+Charles Weasley,younger brother,Percy Weasley
+Charles Weasley,younger brother,Fred Weasley
+Charles Weasley,younger brother,George Weasley
+Charles Weasley,younger brother,Ron Weasley
+Charles Weasley,younger sister,Ginevra Potter
+Charles Weasley,sister-in-law,Fleur Weasley
+Charles Weasley,brother-in-law,Harry Potter
+Charles Weasley,sister-in-law,Hermione Granger
+Charles Weasley,sister-in-law,Audrey Weasley
+Charles Weasley,sister-in-law,Angelina Weasley
+Charles Weasley,niece,Victoire Weasley
+Charles Weasley,niece,Dominique Weasley
+Charles Weasley,nephew,Louis Weasley
+Charles Weasley,niece,Molly Weasley II
+Charles Weasley,niece,Lucy Weasley
+Charles Weasley,nephew,James Sirius Potter
+Charles Weasley,nephew,Albus Severus Potter
+Charles Weasley,niece,Lily Luna Potter
+Charles Weasley,niece,Rose Granger-Weasley
+Charles Weasley,nephew,Hugo Granger-Weasley
+Charles Weasley,nephew,Fred Weasley II
+Charles Weasley,niece,Roxanne Weasley
+Charles Weasley,[],Black family
+Percy Weasley,father,Arthur Weasley
+Percy Weasley,mother,Molly Weasley
+Percy Weasley,older brother,Bill Weasley
+Percy Weasley,older brother,Charlie Weasley
+Percy Weasley,younger brother,Fred Weasley
+Percy Weasley,younger brother,George Weasley
+Percy Weasley,younger brother,Ron Weasley
+Percy Weasley,younger sister,Ginevra Potter
+Percy Weasley,wife,Audrey Weasley
+Percy Weasley,daughter,Molly Weasley II
+Percy Weasley,daughter,Lucy Weasley
+Percy Weasley,great-aunt,Muriel
+Percy Weasley,[],Uncle
+Percy Weasley,[],Cousin
+Percy Weasley,uncle,Bilius
+Percy Weasley,maternal uncle,Fabian Prewett
+Percy Weasley,maternal uncle,Gideon Prewett
+Percy Weasley,paternal grandfather,Septimus Weasley
+Percy Weasley,paternal grandmother,Cedrella Black
+Percy Weasley,maternal grandfather,Mr Prewett
+Percy Weasley,maternal grandmother,Mrs Prewett
+Percy Weasley,sister-in-law,Fleur Weasley
+Percy Weasley,niece,Victoire Weasley
+Percy Weasley,niece,Dominique Weasley
+Percy Weasley,nephew,Louis Weasley
+Percy Weasley,sister-in-law,Angelina Weasley
+Percy Weasley,nephew,Fred Weasley II
+Percy Weasley,niece,Roxanne Weasley
+Percy Weasley,sister-in-law,Hermione Granger
+Percy Weasley,niece,Rose Granger-Weasley
+Percy Weasley,nephew,Hugo Granger-Weasley
+Percy Weasley,brother-in-law,Harry Potter
+Percy Weasley,nephew,James Potter II
+Percy Weasley,nephew,Albus Potter
+Percy Weasley,niece,Lily L. Potter
+Percy Weasley,[],Weasley family
+Percy Weasley,[],House of Black
+Audrey Weasley,husband,Percy Weasley
+Audrey Weasley,daughter,Lucy Weasley
+Audrey Weasley,daughter,Molly Weasley II
+Audrey Weasley,father-in-law,Arthur Weasley
+Audrey Weasley,mother-in-law,Molly Weasley
+Audrey Weasley,[],"Various other in-laws, nephews, and nieces"
+Molly Weasley II,paternal grandfather,Arthur Weasley
+Molly Weasley II,paternal grandmother,Molly Weasley
+Molly Weasley II,father,Percy Weasley
+Molly Weasley II,mother,Audrey Weasley
+Molly Weasley II,sister,Lucy Weasley
+Molly Weasley II,uncle,Ronald Weasley
+Molly Weasley II,aunt,Hermione Granger
+Molly Weasley II,cousin,Rose Granger-Weasley
+Molly Weasley II,cousin,Hugo Granger-Weasley
+Molly Weasley II,uncle,Bill Weasley
+Molly Weasley II,aunt,Fleur Weasley
+Molly Weasley II,cousin,Victoire Weasley
+Molly Weasley II,cousin,Dominique Weasley
+Molly Weasley II,cousin,Louis Weasley
+Molly Weasley II,uncle,Fred Weasley
+Molly Weasley II,uncle,George Weasley
+Molly Weasley II,aunt,Angelina Weasley
+Molly Weasley II,cousin,Fred Weasley II
+Molly Weasley II,cousin,Roxanne Weasley
+Molly Weasley II,uncle,Charles Weasley
+Molly Weasley II,aunt,Ginny Potter
+Molly Weasley II,uncle,Harry Potter
+Molly Weasley II,cousin,James Sirius Potter
+Molly Weasley II,cousin,Albus Severus Potter
+Molly Weasley II,cousin,Lily Luna Potter
+Molly Weasley II,[],House of Black
+Lucy Weasley,paternal grandfather,Arthur Weasley
+Lucy Weasley,paternal grandmother,Molly Weasley
+Lucy Weasley,father,Percy Weasley
+Lucy Weasley,mother,Audrey Weasley
+Lucy Weasley,sister,Molly Weasley II
+Lucy Weasley,uncle,Ronald Weasley
+Lucy Weasley,aunt,Hermione Granger
+Lucy Weasley,cousin,Rose Granger-Weasley
+Lucy Weasley,cousin,Hugo Granger-Weasley
+Lucy Weasley,uncle,Bill Weasley
+Lucy Weasley,aunt,Fleur Weasley
+Lucy Weasley,cousin,Victoire Weasley
+Lucy Weasley,cousin,Dominique Weasley
+Lucy Weasley,cousin,Louis Weasley
+Lucy Weasley,uncle,Fred Weasley
+Lucy Weasley,uncle,George Weasley
+Lucy Weasley,aunt,Angelina Weasley
+Lucy Weasley,cousin,Fred Weasley II
+Lucy Weasley,cousin,Roxanne Weasley
+Lucy Weasley,uncle,Charles Weasley
+Lucy Weasley,aunt,Ginny Potter
+Lucy Weasley,uncle,Harry Potter
+Lucy Weasley,cousin,James Sirius Potter
+Lucy Weasley,cousin,Albus Severus Potter
+Lucy Weasley,cousin,Lily Luna Potter
+Lucy Weasley,[],House of Black
+Fred Weasley,paternal grandfather,Septimus Weasley
+Fred Weasley,paternal grandmother,Cedrella Weasley
+Fred Weasley,father,Arthur Weasley
+Fred Weasley,mother,Molly Weasley
+Fred Weasley,older brother,Bill Weasley
+Fred Weasley,older brother,Charlie Weasley
+Fred Weasley,older brother,Percy Weasley
+Fred Weasley,younger twin brother,George Weasley
+Fred Weasley,younger brother,Ron Weasley
+Fred Weasley,younger sister,Ginevra Potter
+Fred Weasley,maternal grandfather,Mr Prewett
+Fred Weasley,maternal grandmother,Mrs Prewett
+Fred Weasley,maternal uncle,Gideon Prewett
+Fred Weasley,maternal uncle,Fabian Prewett
+Fred Weasley,uncle,Bilius
+Fred Weasley,nephew,Fred Weasley II
+Fred Weasley,niece,Roxanne Weasley
+Fred Weasley,sister-in-law,Fleur Weasley
+Fred Weasley,brother-in-law,Harry Potter
+Fred Weasley,sister-in-law,Hermione Granger
+Fred Weasley,sister-in-law,Angelina Weasley
+Fred Weasley,[],Weasley family
+Fred Weasley,[],House of Black
+George Weasley,paternal grandfather,Septimus Weasley[7]
+George Weasley,paternal grandmother,Cedrella Black[7]
+George Weasley,maternal grandfather,Mr Prewett[7]
+George Weasley,maternal grandmother,Mrs Prewett[7]
+George Weasley,father,Arthur Weasley[8]
+George Weasley,née Prewett,Molly Weasley[2]
+George Weasley,older brother,Bill Weasley[2]
+George Weasley,older brother,Charlie Weasley[2]
+George Weasley,older brother,Percy Weasley[2]
+George Weasley,older twin brother,Fred Weasley[2]
+George Weasley,younger brother,Ron Weasley[2]
+George Weasley,younger sister,Ginevra Potter[2]
+George Weasley,wife,Angelina Weasley[9]
+George Weasley,son,Fred Weasley II[9]
+George Weasley,daughter,Roxanne Weasley[9]
+George Weasley,uncle,Gideon Prewett[7]
+George Weasley,uncle,Fabian Prewett[7]
+George Weasley,[],Paternal uncles
+George Weasley,uncle,Bilius[10]
+George Weasley,[],Uncle
+George Weasley,[],Cousin
+George Weasley,sister-in-law,Fleur Weasley
+George Weasley,niece,Victoire Weasley
+George Weasley,niece,Dominique Weasley
+George Weasley,nephew,Louis Weasley
+George Weasley,sister-in-law,Audrey Weasley
+George Weasley,niece,Molly Weasley II
+George Weasley,niece,Lucy Weasley
+George Weasley,sister-in-law,Hermione Granger[11]
+George Weasley,niece,Rose Granger-Weasley
+George Weasley,nephew,Hugo Granger-Weasley
+George Weasley,brother-in-law,Harry Potter[11]
+George Weasley,nephew,James Potter II
+George Weasley,nephew,Albus Potter
+George Weasley,niece,Lily Potter
+George Weasley,[],Weasley family
+George Weasley,[],Black family[7]
+Angelina Johnson,[],Father
+Angelina Johnson,husband,George Weasley
+Angelina Johnson,son,Fred Weasley II
+Angelina Johnson,daughter,Roxanne Weasley
+Angelina Johnson,father-in-law,Arthur Weasley
+Angelina Johnson,mother-in-law,Molly Weasley
+Angelina Johnson,brother-in-law,Fred Weasley
+Angelina Johnson,[],Various Weasley in-laws
+Fred Weasley II,paternal grandfather,Arthur Weasley
+Fred Weasley II,paternal grandmother,Molly Weasley
+Fred Weasley II,maternal grandfather,Mr Johnson
+Fred Weasley II,father,George Weasley
+Fred Weasley II,mother,Angelina Johnson
+Fred Weasley II,sister,Roxanne Weasley
+Fred Weasley II,uncle,Bill Weasley
+Fred Weasley II,aunt,Fleur Weasley
+Fred Weasley II,aunt,Gabrielle Delacour
+Fred Weasley II,cousin,Victoire Weasley
+Fred Weasley II,cousin,Dominique Weasley
+Fred Weasley II,cousin,Louis Weasley
+Fred Weasley II,uncle,Percy Weasley
+Fred Weasley II,aunt,Audrey Weasley
+Fred Weasley II,cousin,Molly Weasley II
+Fred Weasley II,cousin,Lucy Weasley
+Fred Weasley II,uncle,Charles Weasley
+Fred Weasley II,uncle,Fred Weasley
+Fred Weasley II,uncle,Ronald Weasley
+Fred Weasley II,aunt,Hermione Granger
+Fred Weasley II,cousin,Rose Granger-Weasley
+Fred Weasley II,cousin,Hugo Granger-Weasley
+Fred Weasley II,aunt,Ginny Potter
+Fred Weasley II,uncle,Harry Potter
+Fred Weasley II,cousin,James Sirius Potter
+Fred Weasley II,cousin,Albus Severus Potter
+Fred Weasley II,cousin,Lily Luna Potter
+Fred Weasley II,[],House of Black
+Roxanne Weasley,paternal grandfather,Arthur Weasley
+Roxanne Weasley,paternal grandmother,Molly Weasley
+Roxanne Weasley,maternal grandfather,Mr Johnson
+Roxanne Weasley,father,George Weasley
+Roxanne Weasley,mother,Angelina Johnson
+Roxanne Weasley,brother,Fred Weasley II
+Roxanne Weasley,uncle,Bill Weasley
+Roxanne Weasley,aunt,Fleur Weasley
+Roxanne Weasley,cousin,Victoire Weasley
+Roxanne Weasley,cousin,Dominique Weasley
+Roxanne Weasley,cousin,Louis Weasley
+Roxanne Weasley,uncle,Percy Weasley
+Roxanne Weasley,aunt,Audrey Weasley
+Roxanne Weasley,cousin,Molly Weasley II
+Roxanne Weasley,cousin,Lucy Weasley
+Roxanne Weasley,uncle,Charles Weasley
+Roxanne Weasley,uncle,Fred Weasley
+Roxanne Weasley,uncle,Ronald Weasley
+Roxanne Weasley,aunt,Hermione Granger
+Roxanne Weasley,cousin,Rose Granger-Weasley
+Roxanne Weasley,cousin,Hugo Granger-Weasley
+Roxanne Weasley,aunt,Ginny Potter
+Roxanne Weasley,uncle,Harry Potter
+Roxanne Weasley,cousin,James Sirius Potter
+Roxanne Weasley,cousin,Albus Severus Potter
+Roxanne Weasley,cousin,Lily Luna Potter
+Roxanne Weasley,[],House of Black
+Ronald Weasley,paternal grandfather,Septimus Weasley
+Ronald Weasley,paternal grandmother,Cedrella Weasley
+Ronald Weasley,maternal grandfather,Mr Prewett
+Ronald Weasley,maternal grandmother,Mrs Prewett
+Ronald Weasley,father,Arthur Weasley
+Ronald Weasley,mother,Molly Weasley
+Ronald Weasley,older brother,Bill Weasley
+Ronald Weasley,older brother,Charlie Weasley
+Ronald Weasley,older brother,Percy Weasley
+Ronald Weasley,older brother,Fred Weasley I
+Ronald Weasley,older brother,George Weasley
+Ronald Weasley,younger sister,Ginevra Potter
+Ronald Weasley,wife,Hermione Granger
+Ronald Weasley,daughter,Rose Granger-Weasley[19]
+Ronald Weasley,son,Hugo Granger-Weasley[19]
+Ronald Weasley,great-aunt,Tessie
+Ronald Weasley,maternal uncle,Gideon Prewett
+Ronald Weasley,maternal uncle,Fabian Prewett
+Ronald Weasley,uncle,Bilius
+Ronald Weasley,[],Uncle
+Ronald Weasley,[],Cousin
+Ronald Weasley,[],Paternal uncles
+Ronald Weasley,brother-in-law,Harry Potter
+Ronald Weasley,nephew,James Potter II
+Ronald Weasley,nephew,Albus Potter
+Ronald Weasley,niece,Lily L. Potter
+Ronald Weasley,sister-in-law,Fleur Weasley
+Ronald Weasley,niece,Victoire Weasley
+Ronald Weasley,niece,Dominique Weasley
+Ronald Weasley,nephew,Louis Weasley
+Ronald Weasley,sister-in-law,Audrey Weasley
+Ronald Weasley,niece,Molly Weasley II
+Ronald Weasley,niece,Lucy Weasley
+Ronald Weasley,sister-in-law,Angelina Weasley
+Ronald Weasley,nephew,Fred Weasley II
+Ronald Weasley,niece,Roxanne Weasley
+Ronald Weasley,father-in-law,Mr Granger
+Ronald Weasley,mother-in-law,Mrs Granger
+Ronald Weasley,[],Weasley family
+Ronald Weasley,[],House of Black
+Hermione Granger,father,Mr Granger
+Hermione Granger,mother,Mrs Granger
+Hermione Granger,possible relative,Hector Dagworth-Granger
+Hermione Granger,husband,Ron Weasley
+Hermione Granger,daughter,Rose Granger-Weasley
+Hermione Granger,son,Hugo Granger-Weasley
+Hermione Granger,father-in-law,Arthur Weasley
+Hermione Granger,mother-in-law,Molly Weasley
+Hermione Granger,sister-in-law,Ginevra Potter
+Hermione Granger,brother-in-law,Harry Potter
+Hermione Granger,nephew/godson,James Sirius Potter
+Hermione Granger,nephew,Albus Severus Potter
+Hermione Granger,niece,Lily Luna Potter
+Hermione Granger,brother-in-law,Fred Weasley
+Hermione Granger,brother-in-law,George Weasley
+Hermione Granger,sister-in-law,Angelina Weasley
+Hermione Granger,nephew,Fred Weasley II
+Hermione Granger,niece,Roxanne Weasley
+Hermione Granger,brother-in-law,Percy Weasley
+Hermione Granger,sister-in-law,Audrey Weasley
+Hermione Granger,niece,Molly Weasley II
+Hermione Granger,niece,Lucy Weasley
+Hermione Granger,brother-in-law,Charlie Weasley
+Hermione Granger,brother-in-law,Bill Weasley
+Hermione Granger,sister-in-law,Fleur Weasley
+Hermione Granger,niece,Victoire Weasley
+Hermione Granger,niece,Dominique Weasley
+Hermione Granger,nephew,Louis Weasley
+Rose Granger-Weasley,paternal grandfather,Arthur Weasley
+Rose Granger-Weasley,paternal grandmother,Molly Weasley
+Rose Granger-Weasley,maternal grandfather,Mr Granger
+Rose Granger-Weasley,maternal grandmother,Mrs Granger
+Rose Granger-Weasley,father,Ron Weasley
+Rose Granger-Weasley,mother,Hermione Granger
+Rose Granger-Weasley,brother,Hugo Granger-Weasley
+Rose Granger-Weasley,uncle by Marriage,Harry Potter
+Rose Granger-Weasley,aunt,Ginevra Potter
+Rose Granger-Weasley,cousin,James Sirius Potter
+Rose Granger-Weasley,cousin,Albus Potter
+Rose Granger-Weasley,cousin,Lily Luna Potter
+Rose Granger-Weasley,uncle,Fred Weasley
+Rose Granger-Weasley,uncle,George Weasley
+Rose Granger-Weasley,aunt,Angelina Weasley
+Rose Granger-Weasley,cousin,Fred Weasley II
+Rose Granger-Weasley,cousin,Roxanne Weasley
+Rose Granger-Weasley,uncle,Percy Weasley
+Rose Granger-Weasley,aunt,Audrey Weasley
+Rose Granger-Weasley,cousin,Molly Weasley II
+Rose Granger-Weasley,cousin,Lucy Weasley
+Rose Granger-Weasley,uncle,William Weasley
+Rose Granger-Weasley,aunt,Fleur Weasley
+Rose Granger-Weasley,cousin,Victoire Weasley
+Rose Granger-Weasley,cousin,Dominique Weasley
+Rose Granger-Weasley,cousin,Louis Weasley
+Rose Granger-Weasley,uncle,Charles Weasley
+Rose Granger-Weasley,[],Weasley family
+Rose Granger-Weasley,[],House of Black
+Hugo Granger-Weasley,paternal grandfather,Arthur Weasley
+Hugo Granger-Weasley,paternal grandmother,Molly Weasley
+Hugo Granger-Weasley,maternal grandfather,Mr Granger
+Hugo Granger-Weasley,maternal grandmother,Mrs Granger
+Hugo Granger-Weasley,father,Ronald Weasley
+Hugo Granger-Weasley,mother,Hermione Granger
+Hugo Granger-Weasley,sister,Rose Granger-Weasley
+Hugo Granger-Weasley,uncle,Harry Potter
+Hugo Granger-Weasley,aunt,Ginevra Potter
+Hugo Granger-Weasley,cousin,James Sirius Potter
+Hugo Granger-Weasley,cousin,Albus Potter
+Hugo Granger-Weasley,cousin,Lily Luna Potter
+Hugo Granger-Weasley,uncle,Fred Weasley
+Hugo Granger-Weasley,uncle,George Weasley
+Hugo Granger-Weasley,aunt,Angelina Weasley
+Hugo Granger-Weasley,cousin,Fred Weasley II
+Hugo Granger-Weasley,cousin,Roxanne Weasley
+Hugo Granger-Weasley,uncle,Percy Weasley
+Hugo Granger-Weasley,aunt,Audrey Weasley
+Hugo Granger-Weasley,cousin,Molly Weasley II
+Hugo Granger-Weasley,cousin,Lucy Weasley
+Hugo Granger-Weasley,uncle,William Weasley
+Hugo Granger-Weasley,aunt,Fleur Weasley
+Hugo Granger-Weasley,cousin,Victoire Weasley
+Hugo Granger-Weasley,cousin,Dominique Weasley
+Hugo Granger-Weasley,cousin,Louis Weasley
+Hugo Granger-Weasley,uncle,Charles Weasley
+Hugo Granger-Weasley,[],Weasley family
+Hugo Granger-Weasley,[],House of Black
