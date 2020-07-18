@@ -7,7 +7,7 @@ Harry Potter Characters Network é um projeto com o objetivo de proporcionar mel
 **Os dados utilizados podem ser obtidos apartir da página central [Harry Potter Fandom page](https://harrypotter.fandom.com/), criado pelo próprios fãs da saga.**
 
 ## Resultado obtido
-[Clique aqui para visualizar a página da rede de relacionamento](https://viniciushenr.github.io/harry_potter_characters_network/)]
+[Clique aqui para visualizar a rede de relacionamento (network)](https://viniciushenr.github.io/harry_potter_characters_network/)
 
 ### Requirements
 **Python**
